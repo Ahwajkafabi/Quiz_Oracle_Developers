@@ -1,4 +1,5 @@
-![IMG_20210816_062603](https://user-images.githubusercontent.com/69799720/129668129-5cf26270-1874-4d72-a4cb-5db98d1e97d1.jpg)
+![IMG_20210816_062603](https://user-images.githubusercontent.com/69799720/129668533-0a3c9dce-a938-4f02-b961-d3552c0acf7a.jpg)
+
 https://user-images.githubusercontent.com/69799720/129668363-52d47874-3b6e-4625-93d1-1dae0f707fb8.mp4
 
 # Quiz_Oracle_Developers
